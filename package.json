@@ -1,0 +1,1 @@
+{"name":"documind","version":"1.0.0","private":true,"description":"Private in-browser document search with ranked citations","type":"module","scripts":{"test":"node --test"},"engines":{"node":">=20"}}
